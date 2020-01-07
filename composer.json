@@ -1,0 +1,19 @@
+{
+    "name": "gamesmall",
+    "description": "A project to learn composer",
+    "version": "v0.0.1",
+    "keywords": ["composer", "jjoselon", "software"],
+    "homepage": "https://github.com/jjoselon/",
+    "authors": [
+        {
+            "name": "José Alejandro Ramirez Rivera",
+            "email": "jjoselon3167@hotmail.com",
+            "homepage": ":)",
+            "role": "lead"
+        }
+    ],
+    "support": {
+        "issues": "https://github.com/jjoselon/composer/issues",
+        "wiki": "https://github.com/jjoselon/composer/wiki"
+    }
+}
